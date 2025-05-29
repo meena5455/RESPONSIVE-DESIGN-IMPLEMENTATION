@@ -100,8 +100,5 @@ Copyright
 
 Style with a dark background and white text
 
-7. JavaScript
-Add basic interactivity like:
-
 ##OUTPUT: ![Image](https://github.com/user-attachments/assets/b555eec5-0a47-4f44-a4e6-77151268704f)
 
